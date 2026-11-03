@@ -5,5 +5,12 @@
 # Ignore Eclipse build output
 bin/
 
+# Ignore Java build output
+target/
+
 # Ignore temporary log files
 *.log
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
